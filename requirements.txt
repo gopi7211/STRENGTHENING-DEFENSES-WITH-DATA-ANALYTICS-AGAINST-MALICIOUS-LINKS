@@ -1,0 +1,7 @@
+flask
+pandas
+scikit-learn==1.0.2
+bs4
+requests
+googlesearch-python==1.2.3
+whois==0.9.27
